@@ -1,7 +1,14 @@
 # 🚀PAINEL WEB V5 - MOD
 
+<h3><b>👉 Sistema Suportado: (UBUNTU 18.04)</br>
+👇 Vps recomendada: </br>
+🏆 AVIRA HOST: https://bit.ly/AviraHostPweb</b></h3>
+</br>
 
+# 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
+```
 bash <(wget -qO- https://github.com/Cyber-ssh/pweb_v5/raw/main/PainelWebV5/ubuinst.sh)
+```
 
 # 🔑CHAVE DE INSTALAÇÃO:
 ```
