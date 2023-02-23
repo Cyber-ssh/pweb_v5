@@ -1,11 +1,9 @@
-# 🚀PAINEL WEB V5 - MOD
+#PAINEL WEB V5 - MOD
 
-<h3><b>👉 Sistema Suportado: (UBUNTU 18.04)</br>
-👇 Vps recomendada: </br>
-🏆 AVIRA HOST: https://bit.ly/AviraHostPweb</b></h3>
+<h2><b> Sistema Suportado: (UBUNTU 18.04)</br> </br>  </b></h2>
 </br>
 
-# 🚀COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
+# COMANDO DE INSTALAÇÃO, SÓ COPIAR E COLAR:
 ```
 bash <(wget -qO- https://github.com/Cyber-ssh/pweb_v5/raw/main/PainelWebV5/ubuinst.sh)
 ```
@@ -15,7 +13,7 @@ bash <(wget -qO- https://github.com/Cyber-ssh/pweb_v5/raw/main/PainelWebV5/ubuin
 @Cyberssh
 ```
 
-# 🔄SINCRONIZADOR SSH</br> 
+# SINCRONIZADOR SSH</br> 
 <h3><b>⚠(Executar na VPS do Painel SSH)⚠</b></h3>
 
 ```
